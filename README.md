@@ -1,6 +1,3 @@
 #gitTest
 
-This is a test repository for learning git.
-rjlwjrl
-
-sdlfkjsdlfjsd
+This is a test play ground!
